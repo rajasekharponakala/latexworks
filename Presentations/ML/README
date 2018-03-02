@@ -1,0 +1,12 @@
+This presentation is based on the recent article on "An Introduction to 
+Machine Learning" by Digital Ocean[1]. I made this presentatio on ShareLatex[2],
+make sure to immport this zip file on their respective website. 
+
+The folder tree follows as, 
+
+The file named as 'main.tex' is the main LaTex file to code.
+
+fig/ include all the figures used in the presentation.
+
+[1]. https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning
+[2]. https://www.sharelatex.com
